@@ -11,7 +11,7 @@ mypen.pencolor(color)
 mypen.pensize(20)#设置画笔的大小，括号内数值可修改，但只能是数字形式
 mypen.forward(100)#设置画笔的前进步数，括号内数值可修改，但只能是数字形式。
 mypen.right(90)#设置画笔的旋转角度，括号内数值可修改，但只能是数字形式。right是右转，left是左转
-#
+
 
 mypen.goto(0,0)#坐标方法，中有两个数字第一个是“x”轴，第二个是“y”轴，中间由逗号隔开
 mypen.clear()#清除所有画的痕迹
